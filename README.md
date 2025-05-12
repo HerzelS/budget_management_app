@@ -77,12 +77,13 @@ This Shiny app visualises and tracks budget allocations and expenditures using d
 
 ## 📁 Repository Structure
 
+```bash
 .
 ├── app.R # Shiny UI and server logic
 ├── data_prep.R # PostgreSQL connection and data preparation
 ├── Dockerfile # Dockerfile for containerizing the app
 └── README.md # You're here
-
+```
 
 
 ## 🐳 Getting Started
