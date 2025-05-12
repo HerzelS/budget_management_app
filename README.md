@@ -1,11 +1,6 @@
----
-title: "Budget & Expenditure Tracker"
-output: github_document
----
-
 # 📊 Budget & Expenditure Tracker (Shiny + PostgreSQL + Docker)
 
-This Shiny app visualizes and tracks budget allocations and expenditures using data stored in a PostgreSQL database. The app connects to a Dockerized PostgreSQL instance, joins data from multiple tables in R, and renders interactive dashboards for financial insights.
+This Shiny app visualises and tracks budget allocations and expenditures using data stored in a PostgreSQL database. The app connects to a Dockerized PostgreSQL instance, joins data from multiple tables in R, and renders interactive dashboards for financial insights.
 
 ## 🚀 Features
 
@@ -14,7 +9,7 @@ This Shiny app visualizes and tracks budget allocations and expenditures using d
 - Prepares cleaned and merged data using `dplyr`.
 - Launches a user-friendly Shiny dashboard to:
   - Track budget versus actual spending
-  - Visualize expenditure categories
+  - Visualise expenditure categories
   - Compare trends over time using interactive charts
 
 ## 🧰 Tech Stack
@@ -33,7 +28,7 @@ output: github_document
 
 # 📊 Budget & Expenditure Tracker (Shiny + PostgreSQL + Docker)
 
-This Shiny app visualizes and tracks budget allocations and expenditures using data stored in a PostgreSQL database. The app connects to a Dockerized PostgreSQL instance, joins data from multiple tables in R, and renders interactive dashboards for financial insights.
+This Shiny app visualises and tracks budget allocations and expenditures using data stored in a PostgreSQL database. The app connects to a Dockerized PostgreSQL instance, joins data from multiple tables in R, and renders interactive dashboards for financial insights.
 
 ## 🚀 Features
 
@@ -42,7 +37,7 @@ This Shiny app visualizes and tracks budget allocations and expenditures using d
 - Prepares cleaned and merged data using `dplyr`.
 - Launches a user-friendly Shiny dashboard to:
   - Track budget versus actual spending
-  - Visualize expenditure categories
+  - Visualise expenditure categories
   - Compare trends over time using interactive charts
 
 ## 🧰 Tech Stack
@@ -61,7 +56,7 @@ output: github_document
 
 # 📊 Budget & Expenditure Tracker (Shiny + PostgreSQL + Docker)
 
-This Shiny app visualizes and tracks budget allocations and expenditures using data stored in a PostgreSQL database. The app connects to a Dockerized PostgreSQL instance, joins data from multiple tables in R, and renders interactive dashboards for financial insights.
+This Shiny app visualises and tracks budget allocations and expenditures using data stored in a PostgreSQL database. The app connects to a Dockerized PostgreSQL instance, joins data from multiple tables in R, and renders interactive dashboards for financial insights.
 
 ## 🚀 Features
 
@@ -70,7 +65,7 @@ This Shiny app visualizes and tracks budget allocations and expenditures using d
 - Prepares cleaned and merged data using `dplyr`.
 - Launches a user-friendly Shiny dashboard to:
   - Track budget versus actual spending
-  - Visualize expenditure categories
+  - Visualise expenditure categories
   - Compare trends over time using interactive charts
 
 ## 🧰 Tech Stack
