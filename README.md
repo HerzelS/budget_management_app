@@ -99,7 +99,7 @@ git clone https://github.com/yourusername/budget-tracker-shiny.git
 cd budget-tracker-shiny
 ```
 
-2. Set Up PostgreSQL (Dockerized)
+### 2. Set Up PostgreSQL (Dockerized)
 Create a docker-compose.yml file or use the following command to spin up PostgreSQL:
 
 ```r
@@ -113,7 +113,7 @@ docker run --name pg-docker \
 
 Import your schema and sample data into the `income_and_expenses` schema, or a schema of your choice in your database.
 
-3. Edit Connection Settings
+### 3. Edit Connection Settings
 In `data_prep.R`, update the connection details if needed:
 
 ```r
@@ -141,7 +141,7 @@ Or use:
 Rscript app.R
 ```
 
-📦 Docker Build (Optional)
+## 📦 Docker Build (Optional)
 
 To containerise the Shiny app:
 
@@ -150,16 +150,16 @@ docker build -t budget-tracker-app .
 docker run -p 3838:3838 budget-tracker-app
 ```
 
-✅ To-Do
+## ✅ To-Do
 
 * Add user authentication
 * Add data upload feature via UI
 * Deploy on ShinyApps.io or RStudio Connect
 
-📄 License
+## 📄 License
 MIT License. See LICENSE for details.
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 
