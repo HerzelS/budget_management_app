@@ -98,7 +98,7 @@ docker run -p 3838:3838 budget-tracker-app
 * Deploy on ShinyApps.io or RStudio Connect
 
 ## 📄 License
-MIT License. See LICENSE for details.
+MIT License. See [LICENSE] () for details.
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
