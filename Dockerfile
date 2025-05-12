@@ -22,10 +22,10 @@ RUN chown -R shiny:shiny /srv/shiny-server/
 
 # Set environment variables for database connectivity
 ENV DB_HOST=host.docker.internal
-ENV DB_PORT=5438
-ENV DB_NAME=postgres
-ENV DB_USER=postgres
-ENV DB_PASS=Matipa@18092023
+ENV DB_PORT= # Add your port here
+ENV DB_NAME=postgres # Replace with database name
+ENV DB_USER=postgres # Replace with database user
+ENV DB_PASS= # Add your Database password
 
 # Expose the default port for Shiny Server
 EXPOSE 3838
