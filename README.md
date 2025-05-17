@@ -12,6 +12,8 @@ This Shiny app visualises and tracks budget allocations and expenditures using d
   - Visualise expenditure categories
   - Compare trends over time using interactive charts
   - Downloads filtered budget and expenditure entries in a `csv` file
+ 
+<img src="assets/image.png" alt="Alt text" width="400"/>
 
 ## 🧰 Tech Stack
 
